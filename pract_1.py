@@ -1,4 +1,5 @@
 """one LED
+6 9 14 20 --gnd
 #import RPi.GPIO as GPIO
 import time
 numTimes=int(input("Enter total number of times to blink: "))
