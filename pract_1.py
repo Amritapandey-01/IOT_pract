@@ -1,4 +1,4 @@
-"""one LED
+"""one LED 
 6 9 14 20 ---gnd
 #import RPi.GPIO as GPIO
 import time
