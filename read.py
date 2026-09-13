@@ -1,5 +1,8 @@
+#6 -gnd
+#2-vcc, 3 sda, 4- scl
+#cannel 1-on, channel 2 -off
 import board
-import busio
+import busio 
 from adafruit_pn532.i2c import PN532_I2C
 
 i2c = busio.I2C(board.SCL, board.SDA)
