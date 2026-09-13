@@ -1,3 +1,4 @@
+#gnd -14, vcc - 4, D10 - 18, clk-16
 import sys
 import time
 import datetime
