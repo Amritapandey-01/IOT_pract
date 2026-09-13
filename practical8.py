@@ -1,3 +1,7 @@
+#vdd - pin 1
+#gnd - pin 2
+#sda - pin 3
+#scl - pin 5
 from collections import deque
 import time
 import board
