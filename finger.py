@@ -1,4 +1,4 @@
- fingerprint program starts
+#vcc -red, gnd-black, tx- yellow,rx-white
 
 import time
 from pyfingerprint.pyfingerprint import PyFingerprint
